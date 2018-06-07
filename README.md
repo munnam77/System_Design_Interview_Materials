@@ -1,5 +1,3 @@
-[![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
-
 > How to prepare system design questions for an IT company
 
 System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
